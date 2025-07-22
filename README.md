@@ -63,10 +63,7 @@ To run this project locally:
 
 ## Screenshots
 
-| ![Home](docs/images/image1.png) | ![Add Student](docs/images/image2.png) |
-|:-------------------------------:|:--------------------------------------:|
-| ![Student List](docs/images/image3.png) | ![Edit Student](docs/images/image4.png) |
-| ![Delete Confirmation](docs/images/image5.png) | ![Success State](docs/images/image6.png) |
+For screen layout go to doc/images
 
 ## License
 
